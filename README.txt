@@ -2,7 +2,7 @@
 
 ## directory
 
-- NIO£ºsome useful io function
+- NIO:some useful io function
 - UnClassified: unclassified finction
 
 ## READ MORE
