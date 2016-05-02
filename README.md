@@ -6,5 +6,5 @@
 - UnClassified: unclassified finction
 
 ## READ MORE
-please go to ![hgfgogo.tk](http://hgfdodo.tk)
+please go to [hgfgogo.tk](http://hgfdodo.tk)
 all right reserved by Guangfu He
